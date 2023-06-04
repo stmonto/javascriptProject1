@@ -13,14 +13,6 @@ Project 1 */
 }
 
 
-
-/* Set body background color and font */
-body {
-  background-color: #F0CB28;
-  color: #000000;
-  font-family: Arial, sans-serif;
-}
-
 /* Set header styles */
 header {
   background-color: #22BBE6;
@@ -37,15 +29,6 @@ main {
   padding: 20px; /* space around the main element of the space */
 }
 
-section {
-  background-color: #8FD927;
-  border-radius: 10px; /* rounded corners */
-  box-shadow: 0px 2px 5px #aaa;
-  flex-basis: 30%;
-  margin-bottom: 20px;
-  padding: 20px;
-  text-align: center;
-}
 
 
 section h2 {
@@ -74,9 +57,7 @@ footer {
   text-align: center;
 }
 
-h1 {/* centers the heading in the sections */
-	text-align: center;
-}
+
 
 
 
