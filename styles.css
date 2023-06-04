@@ -15,17 +15,11 @@ Project 1 */
 
 /* Set header styles */
 header {
-  background-color: #22BBE6;
-  color: #fff;
-  padding: 10px;
   text-align: center;
 }
 
 /* Set main content styles */
 main {
-  display: flex;
-  flex-wrap: wrap; /* moves into new line when not enough space*/
-  justify-content: space-between; /*  equal space between items */
   padding: 20px; /* space around the main element of the space */
 }
 
@@ -37,16 +31,6 @@ section h2 {
 }
 
 
-label {
-  margin-bottom: 5px;
-}
-
-input,
-select,
-textarea {
-  margin-bottom: 10px;
-  padding: 5px;
-}
 
 
 /* Set footer styles */
